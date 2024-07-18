@@ -8,3 +8,4 @@ Checking the functionality of gui
 commit and push into GitHub
 =======
 >>>>>>> parent of c60b3b1 (GUI Function check after git commands)
+-----------------------------------------------------------------
