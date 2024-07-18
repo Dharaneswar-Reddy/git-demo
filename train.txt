@@ -2,14 +2,6 @@ Learn git commands
 practice git with clone repository
 Completete git by today upto 90 percent
 Meeting will be scheduled tomorrow
-<<<<<<< HEAD
-
-Checking the functionality of gui
-commit and push into GitHub
-=======
->>>>>>> parent of c60b3b1 (GUI Function check after git commands)
------------------------------------------------------------------
-
 
 Then merge the main and feature branch
 After that try to apply the same for non-fast-forward method
