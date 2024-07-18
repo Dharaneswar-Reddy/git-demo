@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Learn git commands
 practice git with clone repository
 Complete git by today
@@ -6,6 +5,3 @@ Meeting will be scheduled tomorrow
 
 Checking the functionality of gui
 commit and push into GitHub
-=======
-
->>>>>>> 8226d6aa23280206a90f703282b13a8ae6639c07
