@@ -1,4 +1,9 @@
 Learn git commands
 practice git with clone repository
-Complete git by today up to 90 percent
+Complete git by today
 Meeting will be scheduled tomorrow
+
+Checking the functionality of gui
+commit and push into GitHub
+__________________________________
+
