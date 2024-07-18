@@ -10,4 +10,5 @@ non-fast forward
 
 Checking the functionality of gui
 commit and push into GitHub
+Added tags
 
