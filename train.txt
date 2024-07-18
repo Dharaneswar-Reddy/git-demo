@@ -1,6 +1,6 @@
 Learn git commands
 practice git with clone repository
-Complete git by today up to 90 percent
+Completete git by today upto 90 percent
 Meeting will be scheduled tomorrow
 <<<<<<< HEAD
 
