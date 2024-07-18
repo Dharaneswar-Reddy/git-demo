@@ -1,7 +1,1 @@
-Learn git commands
-practice git with clone repository
-Complete git by today
-Meeting will be scheduled tomorrow
 
-Checking the functionality of gui
-commit and push into GitHub
