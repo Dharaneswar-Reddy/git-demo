@@ -14,3 +14,5 @@ commit and push into GitHub
 This update is added in feature branch
 Now, we have to add and commit this
 This is fast-forward method
+Then merge the main and feature branch
+After that try to apply the same for non-fast-forward method
