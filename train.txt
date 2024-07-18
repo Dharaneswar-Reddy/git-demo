@@ -9,3 +9,8 @@ commit and push into GitHub
 =======
 >>>>>>> parent of c60b3b1 (GUI Function check after git commands)
 -----------------------------------------------------------------
+
+
+This update is added in feature branch
+Now, we have to add and commit this
+This is fast-forward method
