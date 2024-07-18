@@ -7,3 +7,7 @@ Then merge the main and feature branch
 After that try to apply the same for non-fast-forward method
 merge this master and feature branch
 non-fast forward 
+
+Checking the functionality of gui
+commit and push into GitHub
+
