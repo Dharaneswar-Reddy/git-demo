@@ -1,7 +1,10 @@
 Learn git commands
 practice git with clone repository
-Complete git by today
+Complete git by today up to 90 percent
 Meeting will be scheduled tomorrow
+<<<<<<< HEAD
 
 Checking the functionality of gui
 commit and push into GitHub
+=======
+>>>>>>> parent of c60b3b1 (GUI Function check after git commands)
