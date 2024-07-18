@@ -5,5 +5,8 @@ Meeting will be scheduled tomorrow
 
 Checking the functionality of gui
 commit and push into GitHub
+<<<<<<< HEAD
 __________________________________
 
+=======
+>>>>>>> 6a1a74c3e64b594127eca60692614e25b454c7e8
