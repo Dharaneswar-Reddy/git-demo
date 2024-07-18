@@ -4,4 +4,12 @@ Complete git by today
 Meeting will be scheduled tomorrow
 
 Checking the functionality of gui
+<<<<<<< HEAD
 commit and push into github
+=======
+commit and push into GitHub
+
+
+some content
+and here!
+
